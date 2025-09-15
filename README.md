@@ -19,7 +19,7 @@ If you want to contact me, please email me without any hesitation!
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix9698&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix9698&layout=compact&theme=catppuccin_latte)
 
 ---
 ### 📚 Education
