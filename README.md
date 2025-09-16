@@ -8,6 +8,7 @@ If you want to contact me, please email me without any hesitation!
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:felix9698@korea.ac.kr)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jblee98/)](https://www.linkedin.com/in/jblee98/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=h5rKGYAAAAAJ&hl=ko)
 
 > ## Current Project
 > - End-to-End framework for 3D Holographic Communication using DT, USRP and VR
